@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/rodos-colour-cleaning-facility-symvolo.png"
+ },
+ "source_md5": "c01ed74d612b145823de1d0450a6979d",
+ "version": "3376b4ec",
+ "tile": "#67241E",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/rodos-colour-cleaning-logo-tile-160.webp",
+  "15956f580fb9d0caca8a4b58f8a49e73"
+ ],
+ "made": "2026-11-24"
+}
